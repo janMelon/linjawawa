@@ -10,7 +10,7 @@ After installing the font, turn on Kerning, all Ligatures, and the "use Contextu
 
 ## Using the Font
 ### Typing Basic Words
-When you type a *toki pona* word, it will be automatically converted to its sitelen pona glyph. E.g. if you type the word "ale", then it will be converted to sitelen pona glyph for "ale" which looks like an infinity sign ⟨∞⟩. Currently, all *pu* words and *ku suli* words are available in this font.
+When you type a *toki pona* word, it will be automatically converted to its *sitelen pona* glyph. E.g. if you type the word "ale", then it will be converted to *sitelen pona* glyph for "ale" which looks like an infinity sign ⟨∞⟩. Currently, all *pu* words and *ku suli* words are available in this font.
 
 One-letter *toki pona* words, like "a", "e", and "o" will only be converted into their "sitelen pona* glyphs if you add a space after it or if you type the same letter twice. Otherwise, it will only show as a latin character. E.g. typing "e" will result in the latin character ⟨e⟩, but typing "e " or "ee" will give you its *sitelen pona* glyph which looks like a sideway double-chevron ⟨»⟩.
 
