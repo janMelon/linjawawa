@@ -4,7 +4,7 @@ Linja wawa is a sitelen pona font by [nimi Elemenopi](https://www.reddit.com/use
 ![initial design](https://preview.redd.it/zn4bnkom63e21.png?width=1920&format=png&auto=webp&s=55b431cb8078e52cccbcdcbf9f2c22f450439f51)
 
 ## Setting up the Font
-After installing the font, turn on Kerning, all Ligatures, and the "use Contextual Altrnates" option. In MS Word, you can find this option by either right-clicking and then selecting "font" or by pressing the "ctrl" key and the "d" key at the same time. 
+After installing the font, turn on Kerning, all Ligatures, and the "use Contextual Alternates" option. In MS Word, you can find this option by either right-clicking and then selecting "font" or by pressing the "ctrl" key and the "d" key at the same time. 
 
 ![font set up](misc/initial-settings.png)
 
