@@ -1,16 +1,16 @@
 # linja wawa
-Linja wawa is a sitelen pona font by [nimi Elemenopi](https://www.reddit.com/user/ElemenopiTheSequel/) &amp; [jan Melon](https://www.reddit.com/user/just-a-melon). This font is released under the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) which means it can be used, studied, modified and redistributed freely as long as they are not sold by themselves (see the OFL.txt file for the full license). The initial glyph designs were made by nimi Elemenopi in 2019 but was only made into an installable font in 2021.
+*Linja wawa* is a [*sitelen pona*](https://en.wikipedia.org/wiki/Toki_Pona#sitelen_pona) font made by [nimi Elemenopi](https://www.reddit.com/user/ElemenopiTheSequel/) &amp; [jan Melon](https://www.reddit.com/user/just-a-melon). *Sitelen pona* is a writing system for the conlang *toki pona* which was created by Sonja Lang. This font is released under the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) which means it can be used, studied, modified and redistributed freely as long as they are not sold by themselves (see the OFL.txt file for the full license). The initial glyph designs were made by nimi Elemenopi in 2019 but was only made into an installable font in 2021.
 
 ![initial design](https://preview.redd.it/zn4bnkom63e21.png?width=1920&format=png&auto=webp&s=55b431cb8078e52cccbcdcbf9f2c22f450439f51)
 
 ## Setting up the Font
-After installing the font, turn on Kerning, all Ligatures, and the "use Contextual Alternates" option. In MS Word, you can find this option by either right-clicking and then selecting "font" or by pressing the "ctrl" key and the "d" key at the same time. 
+After installing the font, turn on Kerning, all Ligatures, and the "use Contextual Alternates" option. In MS Word, you can find this option by either right-clicking and then selecting "font" or by pressing Ctrl+D. 
 
 ![font set up](misc/initial-settings.png)
 
 ## Using the Font
 ### Typing Basic Words
-When you type a toki pona word, it will be automatically converted to its sitelen pona glyph. E.g. if you type the word "ale", then it will be converted to sitelen pona glyph for "ale" which looks like an infinity sign ⟨∞⟩. Currently, all *pu* words and *ku suli* words are available in this font.
+When you type a *toki pona* word, it will be automatically converted to its sitelen pona glyph. E.g. if you type the word "ale", then it will be converted to sitelen pona glyph for "ale" which looks like an infinity sign ⟨∞⟩. Currently, all *pu* words and *ku suli* words are available in this font.
 
 One-letter toki pona words, like "a", "e", and "o" will only be converted into their sitelen pona glyphs if you add a space after it or if you type the same letter twice. Otherwise, it will only show as a latin character. E.g. typing "e" will result in the latin character ⟨e⟩, but typing "e " or "ee" will give you its sitelen pona glyph which looks like a sideway double-chevron ⟨»⟩.
 
